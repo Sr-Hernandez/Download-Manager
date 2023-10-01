@@ -1,0 +1,2 @@
+requests==2.26.0          # Para hacer solicitudes HTTP y descargar archivos
+tqdm==4.62.3              # Para mostrar barras de progreso durante la descarga
